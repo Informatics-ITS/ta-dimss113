@@ -55,3 +55,9 @@
 [submodule "sonarqube"]
 	path = sonarqube
 	url = https://github.com/SIM-MBKM/sonarqube
+[submodule "filestorage-laravel"]
+	path = filestorage-laravel
+	url = https://github.com/SIM-MBKM/filestorage-laravel
+[submodule "mod-service-laravel"]
+	path = mod-service-laravel
+	url = https://github.com/SIM-MBKM/mod-service-laravel

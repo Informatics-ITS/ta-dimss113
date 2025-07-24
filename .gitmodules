@@ -1,0 +1,3 @@
+[submodule "registration-service"]
+	path = registration-service
+	url = https://github.com/SIM-MBKM/registration-service

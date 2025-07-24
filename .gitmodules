@@ -10,3 +10,6 @@
 [submodule "broker-service"]
 	path = broker-service
 	url = https://github.com/SIM-MBKM/broker-service
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/SIM-MBKM/notification-service

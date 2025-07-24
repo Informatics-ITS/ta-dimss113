@@ -22,3 +22,6 @@
 [submodule "activity-service"]
 	path = activity-service
 	url = https://github.com/SIM-MBKM/activity-management-service
+[submodule "mod-service"]
+	path = mod-service
+	url = https://github.com/SIM-MBKM/mod-service

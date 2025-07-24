@@ -16,3 +16,6 @@
 [submodule "filestorage-service"]
 	path = filestorage-service
 	url = https://github.com/SIM-MBKM/filestorage
+[submodule "matching-service"]
+	path = matching-service
+	url = https://github.com/SIM-MBKM/matching-service

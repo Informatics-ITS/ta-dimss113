@@ -28,3 +28,6 @@
 [submodule "monev-service"]
 	path = monev-service
 	url = https://github.com/SIM-MBKM/monev-service
+[submodule "sim-mbkm-migration"]
+	path = sim-mbkm-migration
+	url = https://github.com/SIM-MBKM/sim-mbkm-migration

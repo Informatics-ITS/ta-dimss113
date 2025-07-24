@@ -49,3 +49,9 @@
 [submodule "microservices-db"]
 	path = microservices-db
 	url = https://github.com/SIM-MBKM/microservices-db
+[submodule "jenkins"]
+	path = jenkins
+	url = https://github.com/SIM-MBKM/jenkins
+[submodule "sonarqube"]
+	path = sonarqube
+	url = https://github.com/SIM-MBKM/sonarqube

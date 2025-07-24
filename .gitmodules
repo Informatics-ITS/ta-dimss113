@@ -40,3 +40,9 @@
 [submodule "report-service"]
 	path = report-service
 	url = https://github.com/SIM-MBKM/report-service
+[submodule "calendar-service"]
+	path = calendar-service
+	url = https://github.com/SIM-MBKM/calendar-service
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://github.com/SIM-MBKM/rabbitmq

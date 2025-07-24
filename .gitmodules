@@ -4,3 +4,6 @@
 [submodule "monitoring-service"]
 	path = monitoring-service
 	url = https://github.com/SIM-MBKM/monitoring-service
+[submodule "sim-mbkm-frontend"]
+	path = sim-mbkm-frontend
+	url = https://github.com/SIM-MBKM/sim-mbkm-frontend

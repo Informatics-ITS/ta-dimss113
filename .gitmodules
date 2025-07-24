@@ -31,3 +31,9 @@
 [submodule "sim-mbkm-migration"]
 	path = sim-mbkm-migration
 	url = https://github.com/SIM-MBKM/sim-mbkm-migration
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/SIM-MBKM/auth-service
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/SIM-MBKM/user-management-service

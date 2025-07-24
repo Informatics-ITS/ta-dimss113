@@ -19,3 +19,6 @@
 [submodule "matching-service"]
 	path = matching-service
 	url = https://github.com/SIM-MBKM/matching-service
+[submodule "activity-service"]
+	path = activity-service
+	url = https://github.com/SIM-MBKM/activity-management-service

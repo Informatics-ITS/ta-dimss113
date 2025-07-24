@@ -7,3 +7,6 @@
 [submodule "sim-mbkm-frontend"]
 	path = sim-mbkm-frontend
 	url = https://github.com/SIM-MBKM/sim-mbkm-frontend
+[submodule "broker-service"]
+	path = broker-service
+	url = https://github.com/SIM-MBKM/broker-service

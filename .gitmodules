@@ -37,3 +37,6 @@
 [submodule "user-service"]
 	path = user-service
 	url = https://github.com/SIM-MBKM/user-management-service
+[submodule "report-service"]
+	path = report-service
+	url = https://github.com/SIM-MBKM/report-service

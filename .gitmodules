@@ -13,3 +13,6 @@
 [submodule "notification-service"]
 	path = notification-service
 	url = https://github.com/SIM-MBKM/notification-service
+[submodule "filestorage-service"]
+	path = filestorage-service
+	url = https://github.com/SIM-MBKM/filestorage

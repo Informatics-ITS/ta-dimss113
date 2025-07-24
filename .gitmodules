@@ -46,3 +46,6 @@
 [submodule "rabbitmq"]
 	path = rabbitmq
 	url = https://github.com/SIM-MBKM/rabbitmq
+[submodule "microservices-db"]
+	path = microservices-db
+	url = https://github.com/SIM-MBKM/microservices-db
